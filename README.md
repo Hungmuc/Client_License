@@ -6,6 +6,10 @@ Eas will retrive master key and license file from GitHub and decrypt to informat
 
 
 
+API: https://raw.githubusercontent.com
+
+Client License = File name
+
 
 
 git command
